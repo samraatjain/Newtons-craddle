@@ -1,2 +1,2 @@
-# Newtons-craddle
-using constraint bodies
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
